@@ -1,4 +1,4 @@
 Data/*.nc
-.ipynb_checkpoints
+.ipynb_checkpoints/*
 
 .python-version
