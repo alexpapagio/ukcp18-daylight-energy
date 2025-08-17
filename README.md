@@ -30,4 +30,3 @@ This project explores how **UKCP18 climate projections** can be translated into 
 
 ---
 
-📌 Prepared as a portfolio project for a **CIBSE Environmental Data Scientist** application.
